@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\bin\Debug\StackPanel.exe.config
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\bin\Debug\StackPanel.exe
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\bin\Debug\StackPanel.pdb
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.g.resources
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.exe
+C:\GitHub\Learning_WPF\Chapter3\StackPanel\obj\Debug\StackPanel.pdb
