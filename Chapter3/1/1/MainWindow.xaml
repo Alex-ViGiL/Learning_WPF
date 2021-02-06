@@ -7,6 +7,28 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="200pt"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition  />
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>-->
+
+        <UniformGrid Columns="4" Rows="2" >
+            <Button/>
+            <Button/>
+            <Button/>
+            <Button/>
+            <Button/>
+            <Button/>
+        </UniformGrid>
         
     </Grid>
 </Window>
