@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\Content\bin\Debug\Content.exe.config
+C:\GitHub\Learning_WPF\Chapter4\Content\bin\Debug\Content.exe
+C:\GitHub\Learning_WPF\Chapter4\Content\bin\Debug\Content.pdb
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.g.resources
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.exe
+C:\GitHub\Learning_WPF\Chapter4\Content\obj\Debug\Content.pdb
