@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\bin\Debug\ScrollViewer.exe.config
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\bin\Debug\ScrollViewer.exe
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\bin\Debug\ScrollViewer.pdb
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.g.resources
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.exe
+C:\GitHub\Learning_WPF\Chapter4\ScrollViewer\obj\Debug\ScrollViewer.pdb
