@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\bin\Debug\CheckBox_RadioButton.exe.config
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\bin\Debug\CheckBox_RadioButton.exe
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\bin\Debug\CheckBox_RadioButton.pdb
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.g.resources
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.exe
+C:\GitHub\Learning_WPF\Chapter4\CheckBox_RadioButton\obj\Debug\CheckBox_RadioButton.pdb
