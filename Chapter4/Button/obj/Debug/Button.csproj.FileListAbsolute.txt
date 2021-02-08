@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\Button\bin\Debug\Button.exe.config
+C:\GitHub\Learning_WPF\Chapter4\Button\bin\Debug\Button.exe
+C:\GitHub\Learning_WPF\Chapter4\Button\bin\Debug\Button.pdb
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.g.resources
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.exe
+C:\GitHub\Learning_WPF\Chapter4\Button\obj\Debug\Button.pdb
