@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\bin\Debug\ToolTip.exe.config
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\bin\Debug\ToolTip.exe
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\bin\Debug\ToolTip.pdb
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.g.resources
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.exe
+C:\GitHub\Learning_WPF\Chapter4\ToolTip\obj\Debug\ToolTip.pdb
