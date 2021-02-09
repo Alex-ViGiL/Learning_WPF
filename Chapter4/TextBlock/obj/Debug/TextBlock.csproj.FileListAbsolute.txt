@@ -1,0 +1,15 @@
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\bin\Debug\TextBlock.exe.config
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\bin\Debug\TextBlock.exe
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\bin\Debug\TextBlock.pdb
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.csprojAssemblyReference.cache
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\MainWindow.g.cs
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\App.g.cs
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock_MarkupCompile.cache
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock_MarkupCompile.lref
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\MainWindow.baml
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.g.resources
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.Properties.Resources.resources
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.csproj.GenerateResource.cache
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.exe
+C:\GitHub\Learning_WPF\Chapter4\TextBlock\obj\Debug\TextBlock.pdb
