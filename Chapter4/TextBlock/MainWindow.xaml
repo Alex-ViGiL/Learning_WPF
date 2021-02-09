@@ -16,7 +16,8 @@
             </TextBlock>
 
             <TextBox Name="a" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" SpellCheck.IsEnabled="True"  Language="ru-ru" />
-            <Label  Target="{Binding ElementName=a}" Content="_h_ey" />
+            <Label  Target="{Binding ElementName=pass}" Content="_h_ey" />
+            <PasswordBox x:Name="pass" PasswordChar="0" />
         </StackPanel>
         
     </Grid>
