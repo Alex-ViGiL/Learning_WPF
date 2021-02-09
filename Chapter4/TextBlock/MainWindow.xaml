@@ -15,8 +15,8 @@
                 
             </TextBlock>
 
-            <TextBox  VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" SpellCheck.IsEnabled="True"  Language="ru-ru" />
-
+            <TextBox Name="a" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" SpellCheck.IsEnabled="True"  Language="ru-ru" />
+            <Label  Target="{Binding ElementName=a}" Content="_h_ey" />
         </StackPanel>
         
     </Grid>
